@@ -1,0 +1,6 @@
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/AmaliyotBot1/obj/Debug/net8.0/AmaliyotBot1.csproj.AssemblyReference.cache
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/AmaliyotBot1/obj/Debug/net8.0/AmaliyotBot1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/AmaliyotBot1/obj/Debug/net8.0/AmaliyotBot1.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/AmaliyotBot1/obj/Debug/net8.0/AmaliyotBot1.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/AmaliyotBot1/obj/Debug/net8.0/AmaliyotBot1.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/AmaliyotBot1/obj/Debug/net8.0/AmaliyotBot1.sourcelink.json

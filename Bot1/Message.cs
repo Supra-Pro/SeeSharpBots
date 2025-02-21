@@ -1,7 +1,12 @@
-namespace Bot1;
+using System.Runtime.InteropServices.ComTypes;
+using Telegram.Bot.Types;
 
-public class Message
+
+namespace Bot1
 {
-    public string? Text { get; set; }
-    public DateTime Date { get; set; }
+    public class Message
+    {
+        public string? Text { get; set; }
+        public DateTime Date { get; set; }
+    }
 }

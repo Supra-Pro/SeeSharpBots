@@ -6,4 +6,5 @@ public class User
     public string? Name { get; set; }
     public string? Username { get; set; }
     public bool PremiumBomi { get; set; }
+    public bool Botmi { get; set; }
 }

@@ -4,11 +4,15 @@ using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
+
 namespace Bot1;
 
 public class BotHandler
 {
     public string Token { get; set; }
+
+    public string Channel_url = "@alo_xashar";
+
 
     public BotHandler(string token)
     {
@@ -61,7 +65,8 @@ public class BotHandler
             id = update.Message.From.Id,
             Name = update.Message.From.FirstName,
             Username = $"@{update.Message.From.Username}",
-            PremiumBomi = update.Message.From.IsPremium ?? false
+            PremiumBomi = update.Message.From.IsPremium ?? false,
+            Botmi = update.Message.From.IsBot
         };
             
         if (update.Message?.Type == MessageType.Text)
@@ -79,25 +84,28 @@ public class BotHandler
                 premiummi = "bor";
             }
 
+            var botmi = (user.Botmi == true) ? "ha" : "yo'q";
+
             await botClient.SendTextMessageAsync(
-                chatId: "@alo_xashar",
+                chatId: Channel_url,
                 text: $"\ud83d\udcac Yangi xabar:\n" +
                       $"Name: {user.Name}\n" +
                       $"Username: {user.Username}\n" +
                       $"ID: {user.id}\n" +
                       $"Xabar: {message.Text}\n" +
                       $"Vaqt: {message.Date}\n" +
-                      $"Premium: {premiummi}",
+                      $"Premium: {premiummi}\n" +
+                      $"Botmi: {botmi}",
                 cancellationToken: cancellationToken
             );
 
             if (message.Text == "/start" || message.Text == "start")
             {
-                if (user.id == 8143337642)
+                if (user.id == 8143337642 || user.id == 6917354246)
                 {
                     await botClient.SendTextMessageAsync(
                         chatId: user.id,
-                        text: "Bo'lar endi!",
+                        text: ".",
                         cancellationToken: cancellationToken
                     );
                 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WlfZdiyaFUZS+P9AApzOwboJxPSz0czf+ESaWSeLRijXIc48US0/jXyMlPVtRBKfG3k5VU75t44oQtQqrbYm3A==",
+  "success": true,
+  "projectFilePath": "/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/Bot2/Bot2.csproj",
+  "expectedPackageFiles": [
+    "/Users/otabek_coding/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/otabek_coding/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

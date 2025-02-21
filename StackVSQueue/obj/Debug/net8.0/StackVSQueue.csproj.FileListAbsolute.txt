@@ -1,0 +1,15 @@
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/bin/Debug/net8.0/StackVSQueue
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/bin/Debug/net8.0/StackVSQueue.deps.json
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/bin/Debug/net8.0/StackVSQueue.runtimeconfig.json
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/bin/Debug/net8.0/StackVSQueue.dll
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/bin/Debug/net8.0/StackVSQueue.pdb
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.sourcelink.json
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.dll
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/refint/StackVSQueue.dll
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.pdb
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/StackVSQueue.genruntimeconfig.cache
+/Users/otabek_coding/Desktop/Lessons/Bootcamp/SeeSharpBotlessons/StackVSQueue/obj/Debug/net8.0/ref/StackVSQueue.dll
